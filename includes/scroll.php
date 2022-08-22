@@ -1,0 +1,1 @@
+<div class="mb-2 d-md-none d-print-none alert alert-primary">The table below can be scrolled from left to right on smaller screens.</div>
